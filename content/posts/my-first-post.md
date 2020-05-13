@@ -7,10 +7,10 @@ draft: true
 El teletrabajo se ha convertido en una fórmula eficaz para poder desarrollar la actividad de multitud de empresas y, por eso, cada vez hay más apps para hacer videoconferencias. 
 Sin embargo, en ocasiones la distancia se interpone entre nosotros y esas personas que nos encantaría que estuviesen a nuestro lado.
 
-##Top 6: las 6 mejores apps para hacer videoconferencias
-### Teams by Lucy Caregua
+## Top 6: las 6 mejores apps para hacer videoconferencias
+### 1. Teams by Lucy Caregua
 
-### Zoom by Vanessa Pita
+### 2. Zoom by Vanessa Pita
 Zoom es un servicio de videoconferencia basado en la nube que puede usar para reunirse virtualmente con otros, ya sea por video o solo audio o ambos, todo mientras realiza chats en vivo, y le permite grabar esas sesiones para verlas más tarde.
 
 Esta aplicación utiliza dos servicios llamados Zoom Meeting y Zoom Room, en donde la primera es la reunión de videoconferencia alojada en la plataforma y la segunda la configuración del hardware físico para programar y realizar conferencias.
@@ -32,7 +32,7 @@ Zoom ofrece cuatro niveles de precios (sin incluir una suscripción a Zoom Room)
 * Zoom Enterprise: este nivel cuesta $ 19.99 / £ 15.99 por mes y por anfitrión de la reunión (mínimo de 100) y está destinado a empresas con más de 1,000 empleados. Ofrece almacenamiento ilimitado en la nube para grabaciones, un administrador de éxito del cliente y descuentos en seminarios web y Zoom Rooms.
 * Opcional - Zoom Rooms: si desea configurar Zoom Rooms, puede inscribirse para una prueba gratuita de 30 días, después de lo cual Zoom Rooms requiere una suscripción adicional de $ 49 / £ 39 por mes y sala, mientras que los seminarios web con Zoom cuestan $ 40 / £ 32 por mes y anfitrión.
 
-### Skype by Danny Torres
+### 3. Skype by Danny Torres
 
 El uso general de la aplicación es gratuito. Solo tiene una versión de pago la cual es más enfocado a empresas y para personas individuales no es necesario. Incluso para pequeñas empresas de menos de 20 empleados, con la versión normal de Skype es más que suficiente.
 Además, se le suma el hecho de que los precios de las llamadas son bastante económicos dependiendo del país evidentemente. No obstante, entre personas que tienen Skype las llamadas son completamente gratuitas.
@@ -60,13 +60,13 @@ Si lo que buscas es una app para hacer videollamadas con tus amigos. Lo mejor es
 Para aquellos que quieren una app para comunicarse con sus amigos mientras juegan, definitivamente Discord es lo que necesitan.
 
 
-### Webex by Juan Carlos Sellan
+### 4. Webex by Juan Carlos Sellan
 
 <<<<<<< HEAD
 ### FaceTime by Jesus Jacome
 El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece absolutamente todas las herramientas 
 =======
-## FaceTime by Jesus Jacome
+## 5. FaceTime by Jesus Jacome
 -El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece absolutamente todas las herramientas 
 >>>>>>> 4edef906c9e231d9be96226afb20d218aaafac3a
 para realizar todas las tareas que necesita con una calidad y solidez que pocos pueden imitar. 
@@ -84,7 +84,7 @@ en dispositivos Apple, con lo cual el comportamiento de la aplicación es excele
 Esta impresionante aplicación, al igual que otras de su tipo en el mercado, puede operar tanto con redes WiFi como con redes celulares 
 3G y 4G, ofreciendo así una flexibilidad espectacular, lo que nos permite utilizarla prácticamente en cualquier escenario.
 
-### Webinar by Diego Faria
+### 6. Webinar by Diego Faria
 
 
 
