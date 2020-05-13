@@ -27,12 +27,11 @@ Zoom ofrece cuatro niveles de precios (sin incluir una suscripción a Zoom Room)
 * Zoom Enterprise: este nivel cuesta $ 19.99 / £ 15.99 por mes y por anfitrión de la reunión (mínimo de 100) y está destinado a empresas con más de 1,000 empleados. Ofrece almacenamiento ilimitado en la nube para grabaciones, un administrador de éxito del cliente y descuentos en seminarios web y Zoom Rooms.
 * Opcional - Zoom Rooms: si desea configurar Zoom Rooms, puede inscribirse para una prueba gratuita de 30 días, después de lo cual Zoom Rooms requiere una suscripción adicional de $ 49 / £ 39 por mes y sala, mientras que los seminarios web con Zoom cuestan $ 40 / £ 32 por mes y anfitrión.
 
-## Whatsapp by Danny Torres
-Es una aplicación de mensajería para teléfonos inteligentes, en la que se envían y reciben mensajes mediante Internet, así como imágenes, documentos, ubicaciones, contactos, vídeos y grabaciones de audio, y se realizan llamadas y videollamadas, entre otras funciones
+## Skype by Danny Torres
 ### Características
-* Limite de 4 personas.
-* No puedes iniciar una llamada en grupo directamente.
-* Cifrado de extremo a extremo.
+
+
+
 
 ## Webex by Juan Carlos Sellan
 
