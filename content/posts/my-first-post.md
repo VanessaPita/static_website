@@ -26,7 +26,7 @@ El nivel gratuito permite organizar reuniones ilimitadas de manera personal y te
  
 Zoom ofrece cuatro niveles de precios (sin incluir una suscripción a Zoom Room):
 
-* Zoom gratis: este nivel es gratis. Puede celebrar un número ilimitado de reuniones. Las reuniones grupales con múltiples participantes tienen un límite de 40 minutos y las reuniones no se pueden grabar.
+* Zoom gratis: Puede celebrar un número ilimitado de reuniones. Las reuniones grupales con múltiples participantes tienen un límite de 40 minutos y las reuniones no se pueden grabar.
 * Zoom Pro: este nivel cuesta $ 14.99 / £ 11.99 por mes y el anfitrión de la reunión. Permite a los anfitriones crear ID de reuniones personales para reuniones de Zoom repetitivas, y permite grabar reuniones en la nube o en su dispositivo, pero limita la duración de las reuniones grupales a las 24 horas.
 * Zoom Business: este nivel cuesta $ 19.99 / £ 15.99 por mes y el anfitrión de la reunión (10 mínimo). Le permite marcar las reuniones de Zoom con URL personalizadas y la marca de la empresa, y ofrece transcripciones de las reuniones de Zoom grabadas en la nube, así como un servicio de atención al cliente dedicado.
 * Zoom Enterprise: este nivel cuesta $ 19.99 / £ 15.99 por mes y por anfitrión de la reunión (mínimo de 100) y está destinado a empresas con más de 1,000 empleados. Ofrece almacenamiento ilimitado en la nube para grabaciones, un administrador de éxito del cliente y descuentos en seminarios web y Zoom Rooms.
@@ -62,17 +62,22 @@ Para aquellos que quieren una app para comunicarse con sus amigos mientras juega
 
 ### Webex by Juan Carlos Sellan
 
+<<<<<<< HEAD
 ### FaceTime by Jesus Jacome
 El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece absolutamente todas las herramientas 
+=======
+## FaceTime by Jesus Jacome
+-El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece absolutamente todas las herramientas 
+>>>>>>> 4edef906c9e231d9be96226afb20d218aaafac3a
 para realizar todas las tareas que necesita con una calidad y solidez que pocos pueden imitar. 
 Entre estas herramientas se encuentra Facetime, una aplicación de mensajería que incluye video, mansajes de texto, 
 voz y más.
 
-Con FaceTime, los usuarios de Apple tienen la posibilidad de comunicarse incluso a través de videollamadas 
+-Con FaceTime, los usuarios de Apple tienen la posibilidad de comunicarse incluso a través de videollamadas 
 por intermedio de cualquier dispositivo Apple que posean, y del mismo modo, al recibir una llamada o un mensaje 
 la aplicación lo notificará en todos los dispositivos compatibles que posee el destinatario.
 
-Si bien en líneas generales podría decirse que FaceTime es una herramienta similar al servicio que ofrece la popular Skype,
+-Si bien en líneas generales podría decirse que FaceTime es una herramienta similar al servicio que ofrece la popular Skype,
 lo cierto es que la principal diferencia entre ellos es que FaceTime ha sido diseñada para ser utilizada exclusivamente 
 en dispositivos Apple, con lo cual el comportamiento de la aplicación es excelente en equipos de esta marca.
 
