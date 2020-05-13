@@ -1,22 +1,27 @@
 ---
 title: "Las mejores aplicaciones para video conferencias"
-date: 2020-05-12T22:01:24-05:00
+date: 2020-05-13T22:01:24-05:00
 draft: true
 ---
-## Teams by Lucy Caregua
 
-## Zoom by Vanessa Pita
+El teletrabajo se ha convertido en una fórmula eficaz para poder desarrollar la actividad de multitud de empresas y, por eso, cada vez hay más apps para hacer videoconferencias. 
+Sin embargo, en ocasiones la distancia se interpone entre nosotros y esas personas que nos encantaría que estuviesen a nuestro lado.
+
+##Top 6: las 6 mejores apps para hacer videoconferencias
+### Teams by Lucy Caregua
+
+### Zoom by Vanessa Pita
 Zoom es un servicio de videoconferencia basado en la nube que puede usar para reunirse virtualmente con otros, ya sea por video o solo audio o ambos, todo mientras realiza chats en vivo, y le permite grabar esas sesiones para verlas más tarde.
 
 Esta aplicación utiliza dos servicios llamados Zoom Meeting y Zoom Room, en donde la primera es la reunión de videoconferencia alojada en la plataforma y la segunda la configuración del hardware físico para programar y realizar conferencias.
 
-### Características principales de Zoom
+#### Características principales de Zoom
 Zoom permite hacer diversas cosas pero puede resumirse en tres puntos:
 * Reuniones individuales.
 * Videoconferencias grupales.
 * Uso compartido de pantalla.
 
-### Como funciona?
+#### Como funciona?
 El nivel gratuito permite organizar reuniones ilimitadas de manera personal y tener videoconferencias de hasta 40 minutos con más de 100 participantes (500 si se compra el plan completo)
  
 Zoom ofrece cuatro niveles de precios (sin incluir una suscripción a Zoom Room):
@@ -27,14 +32,14 @@ Zoom ofrece cuatro niveles de precios (sin incluir una suscripción a Zoom Room)
 * Zoom Enterprise: este nivel cuesta $ 19.99 / £ 15.99 por mes y por anfitrión de la reunión (mínimo de 100) y está destinado a empresas con más de 1,000 empleados. Ofrece almacenamiento ilimitado en la nube para grabaciones, un administrador de éxito del cliente y descuentos en seminarios web y Zoom Rooms.
 * Opcional - Zoom Rooms: si desea configurar Zoom Rooms, puede inscribirse para una prueba gratuita de 30 días, después de lo cual Zoom Rooms requiere una suscripción adicional de $ 49 / £ 39 por mes y sala, mientras que los seminarios web con Zoom cuestan $ 40 / £ 32 por mes y anfitrión.
 
-## Skype by Danny Torres
+### Skype by Danny Torres
 
 El uso general de la aplicación es gratuito. Solo tiene una versión de pago la cual es más enfocado a empresas y para personas individuales no es necesario. Incluso para pequeñas empresas de menos de 20 empleados, con la versión normal de Skype es más que suficiente.
 Además, se le suma el hecho de que los precios de las llamadas son bastante económicos dependiendo del país evidentemente. No obstante, entre personas que tienen Skype las llamadas son completamente gratuitas.
 Esto significa que, si la otra persona tiene instalado Skype, puedes llamarla ya sea con una llamada de voz o videollamada de manera gratuita, sin gastar un solo céntimo. Además, en las videollamadas pueden participar hasta 24 personas. 
 Con la versión empresarial el número de personas que pueden participar se extienda hasta 50.
 
-### Ventajas
+#### Ventajas
 Para instalar Skype basta con acceder a su sitio web, descargar la app y comenzar a utilizarla. También puedes optar por hacer esto desde la Windows Store en caso de que tengas Windows 10. Incluso puedes usar su versión web para usar la app desde el navegador.
 - Skype es fácil y rápido de instalar.
 - Llamadas telefónicas gratuitas a otros usuarios de Skype en cualquier parte del mundo.
@@ -42,7 +47,7 @@ Para instalar Skype basta con acceder a su sitio web, descargar la app y comenza
 - Las llamadas con Skype tienen una alta calidad de sonido y son altamente seguras.
 - Skype funciona en la mayoría de los equipos: Windows, Mac OS X, Linux y Pocket Out.
 
-### Desventajas
+#### Desventajas
 - Tener contactos no deseados.
 - Para llamar a teléfonos fijos se tiene que pagar.
 - El buzón de voz tampoco es gratuito.
@@ -55,9 +60,9 @@ Si lo que buscas es una app para hacer videollamadas con tus amigos. Lo mejor es
 Para aquellos que quieren una app para comunicarse con sus amigos mientras juegan, definitivamente Discord es lo que necesitan.
 
 
-## Webex by Juan Carlos Sellan
+### Webex by Juan Carlos Sellan
 
-## FaceTime by Jesus Jacome
+### FaceTime by Jesus Jacome
 El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece absolutamente todas las herramientas 
 para realizar todas las tareas que necesita con una calidad y solidez que pocos pueden imitar. 
 Entre estas herramientas se encuentra Facetime, una aplicación de mensajería que incluye video, mansajes de texto, 
@@ -73,7 +78,8 @@ en dispositivos Apple, con lo cual el comportamiento de la aplicación es excele
 
 Esta impresionante aplicación, al igual que otras de su tipo en el mercado, puede operar tanto con redes WiFi como con redes celulares 
 3G y 4G, ofreciendo así una flexibilidad espectacular, lo que nos permite utilizarla prácticamente en cualquier escenario.
-## Webinar by Diego Faria
+
+### Webinar by Diego Faria
 
 
 
