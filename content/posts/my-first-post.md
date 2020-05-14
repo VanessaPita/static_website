@@ -8,6 +8,7 @@ El teletrabajo se ha convertido en una fórmula eficaz para poder desarrollar la
 Sin embargo, en ocasiones la distancia se interpone entre nosotros y esas personas que nos encantaría que estuviesen a nuestro lado.
 
 ## Top 6: las 6 mejores apps para hacer videoconferencias
+=======
 ### 1. Teams by Lucy Caregua
 Microsoft Teams es un espacio de trabajo basado en chat de Office 365 diseñado para mejorar la comunicación y colaboración de los equipos de trabajo de las empresas, 
 reforzando las funciones colaborativas de la plataforma en la nube, Office 365. 
@@ -22,6 +23,7 @@ La herramienta reúne en un espacio común,  las aplicaciones de colaboración n
  * Planner
 
 ### 2. Zoom by Vanessa Pita
+=======
 Zoom es un servicio de videoconferencia basado en la nube que puede usar para reunirse virtualmente con otros, ya sea por video o solo audio o ambos, todo mientras realiza chats en vivo, y le permite grabar esas sesiones para verlas más tarde.
 
 Esta aplicación utiliza dos servicios llamados Zoom Meeting y Zoom Room, en donde la primera es la reunión de videoconferencia alojada en la plataforma y la segunda la configuración del hardware físico para programar y realizar conferencias.
@@ -44,7 +46,7 @@ Zoom ofrece cuatro niveles de precios (sin incluir una suscripción a Zoom Room)
 * Opcional - Zoom Rooms: si desea configurar Zoom Rooms, puede inscribirse para una prueba gratuita de 30 días, después de lo cual Zoom Rooms requiere una suscripción adicional de $ 49 / £ 39 por mes y sala, mientras que los seminarios web con Zoom cuestan $ 40 / £ 32 por mes y anfitrión.
 
 ### 3. Skype by Danny Torres
-
+=======
 El uso general de la aplicación es gratuito. Solo tiene una versión de pago la cual es más enfocado a empresas y para personas individuales no es necesario. Incluso para pequeñas empresas de menos de 20 empleados, con la versión normal de Skype es más que suficiente.
 Además, se le suma el hecho de que los precios de las llamadas son bastante económicos dependiendo del país evidentemente. No obstante, entre personas que tienen Skype las llamadas son completamente gratuitas.
 Esto significa que, si la otra persona tiene instalado Skype, puedes llamarla ya sea con una llamada de voz o videollamada de manera gratuita, sin gastar un solo céntimo. Además, en las videollamadas pueden participar hasta 24 personas. 
@@ -71,7 +73,7 @@ Si lo que buscas es una app para hacer videollamadas con tus amigos. Lo mejor es
 Para aquellos que quieren una app para comunicarse con sus amigos mientras juegan, definitivamente Discord es lo que necesitan.
 
 ### 4. Webex by Juan Carlos Sellan
-
+=======
 ### ¿Qué es Cisco Webex Meetings?
 
 Cada mes, 113 millones de profesionales confían en WebEx para colaborar y hacer avanzar proyectos más rápido. Ahora los equipos pueden trabajar con cualquier persona desde un navegador, un dispositivo móvil o un sistema de video. WebEx Meeting Center ofrece capacidad integrada para compartir audio, video y contenido. Mantén la privacidad de las conversaciones con reuniones de WebEx altamente seguras de Cisco Collaboration Cloud.
@@ -141,6 +143,7 @@ Esta impresionante aplicación, al igual que otras de su tipo en el mercado, pue
 
 
 ### 6. Google Meet  by Diego Faria
+=======
 - Google Meet es una nueva aplicación de videoconferencias que sustituye a Google Hangout en el ámbito profesional y que nos permite crear salas de reunión virtuales usando url como identificadores de salas de reunión. La compañía quería mejorar Hangouts para que sea una aplicación más sencilla y rápida para los usuarios al momento de iniciar o unirse a una videoconferencia. Google describe Meet como "una experiencia de reunión a través de video con el objetivo de unirse a reuniones de forma fácil". 
 Para acceder a Google Meet se debe ingresar a su web oficial meet.google.com. Esta aplicación tiene una interfaz muy ligera y rápida similar a Hangouts y le permite administrar fácilmente reuniones de hasta 250 personas. Para iniciar reuniones, originalmente necesitaba tener una cuenta de G Suite, pero Google ahora la pone a disposición de todos, con diferentes niveles de funcionalidad.
 En lugar de aparecer nuestra lista de contactos o herramientas para iniciar una nueva conferencia, lo que tenemos es un apartado para introducir un código de reunión. Estos ‘códigos’ son las contraseñas únicas que se crearán con cada conferencia, de forma que los participantes solo podrán entrar a esas reuniones conociéndolo previamente. Además, también aparecerán las próximas reuniones programadas, integrándose con Google Calendar.
