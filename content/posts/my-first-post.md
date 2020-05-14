@@ -62,6 +62,8 @@ Para aquellos que quieren una app para comunicarse con sus amigos mientras juega
 
 ### 4. Webex by Juan Carlos Sellan
 
+{{< figure src="/images/Cisco-Webex-Meetings.jpg" title="webex image" >}}
+
 ### ¿Qué es Cisco Webex Meetings?
 
 Cada mes, 113 millones de profesionales confían en WebEx para colaborar y hacer avanzar proyectos más rápido. Ahora los equipos pueden trabajar con cualquier persona desde un navegador, un dispositivo móvil o un sistema de video. WebEx Meeting Center ofrece capacidad integrada para compartir audio, video y contenido. Mantén la privacidad de las conversaciones con reuniones de WebEx altamente seguras de Cisco Collaboration Cloud.
