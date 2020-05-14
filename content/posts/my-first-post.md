@@ -73,7 +73,7 @@ Para aquellos que quieren una app para comunicarse con sus amigos mientras juega
 ### 4. Webex by Juan Carlos Sellan
 
 {{< figure src="/images/Cisco-Webex-Meetings.jpg" title="webex image" >}}
-{{- $image := resources.Get “images/Cisco-Webex-Meetings.jpg” -}}
+
 
 ### ¿Qué es Cisco Webex Meetings?
 
