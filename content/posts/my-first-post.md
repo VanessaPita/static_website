@@ -71,7 +71,7 @@ Si lo que buscas es una app para hacer videollamadas con tus amigos. Lo mejor es
 Para aquellos que quieren una app para comunicarse con sus amigos mientras juegan, definitivamente Discord es lo que necesitan.
 
 ### 4. Webex by Juan Carlos Sellan
-featured_image: ''
+
 {{< figure src="/images/Cisco-Webex-Meetings.jpg" title="webex image" >}}
 
 ### ¿Qué es Cisco Webex Meetings?
