@@ -65,7 +65,7 @@ Para aquellos que quieren una app para comunicarse con sus amigos mientras juega
 
 Cada mes, 113 millones de profesionales confían en WebEx para colaborar y hacer avanzar proyectos más rápido. Ahora los equipos pueden trabajar con cualquier persona desde un navegador, un dispositivo móvil o un sistema de video. WebEx Meeting Center ofrece capacidad integrada para compartir audio, video y contenido. Mantén la privacidad de las conversaciones con reuniones de WebEx altamente seguras de Cisco Collaboration Cloud.
 
-### Entre las ventajas de utilizar audio de Webex se incluyen:
+### Entre las ventajas de utilizar Webex se incluyen:
 
 * Devolución de llamada: permitir que el sistema audio de WebEx llame a los asistentes y traiga
 en su audioconferencia-sin complicaciones con códigos de reunión o de asistente.
@@ -92,6 +92,7 @@ configurar reuniones web y de sólo audio.
 * La autenticación de invitados elimina los tediosos procedimientos de inicio de sesión con la autenticación automática de la reunión asistentes cuando llamen.
 
 ### Limitaciones y problemas conocidos de la aplicación web de Cisco Webex
+
 * El Aplicación Cisco Webex Meetings Web admite Cisco Webex Meetings, Cisco Webex Events y Cisco Webex Training. La aplicación web no es compatible con Cisco Webex Support.
 
 * La función levantar mano no está disponible para la Aplicación Cisco Webex Meetings Web para Cisco Webex Meetings, Cisco Webex Events y Cisco Webex Training.
