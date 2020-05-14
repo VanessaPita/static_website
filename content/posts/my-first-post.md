@@ -110,7 +110,7 @@ El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece ab
 =======
 ## 5. FaceTime by Jesus Jacome
 
-![Texto alternativo](https://github.com/VanessaPita/static_website/content/posts/facetime.jpg "Título alternativo")
+![Texto alternativo](https://github.com/VanessaPita/static_website/blob/master/content/posts/facetime.jpg "Título alternativo")
 
 -El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece absolutamente todas las herramientas 
 para realizar todas las tareas que necesita con una calidad y solidez que pocos pueden imitar. 
