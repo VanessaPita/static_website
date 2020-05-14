@@ -9,6 +9,7 @@ Sin embargo, en ocasiones la distancia se interpone entre nosotros y esas person
 
 ## Top 6: las 6 mejores apps para hacer videoconferencias
 ### 1. Teams by Lucy Caregua
+Hi!
 
 ### 2. Zoom by Vanessa Pita
 Zoom es un servicio de videoconferencia basado en la nube que puede usar para reunirse virtualmente con otros, ya sea por video o solo audio o ambos, todo mientras realiza chats en vivo, y le permite grabar esas sesiones para verlas más tarde.
