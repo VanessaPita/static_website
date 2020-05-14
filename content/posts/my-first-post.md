@@ -9,7 +9,17 @@ Sin embargo, en ocasiones la distancia se interpone entre nosotros y esas person
 
 ## Top 6: las 6 mejores apps para hacer videoconferencias
 ### 1. Teams by Lucy Caregua
-Hi! 2
+Microsoft Teams es un espacio de trabajo basado en chat de Office 365 diseñado para mejorar la comunicación y colaboración de los equipos de trabajo de las empresas, 
+reforzando las funciones colaborativas de la plataforma en la nube, Office 365. 
+
+Teams está integrado de manera natural con Microsoft Office 365 y basado en "Groups", el servicio en la nube desarrollado para la colaboración entre usuarios. 
+La herramienta reúne en un espacio común,  las aplicaciones de colaboración necesarias para trabajar en equipo y con las que podrás trabajar con: 
+ * Chats
+ * Videoconferéncias
+ * Notas
+ * Acceso a contenido
+ * Office Online
+ * Planner
 
 ### 2. Zoom by Vanessa Pita
 Zoom es un servicio de videoconferencia basado en la nube que puede usar para reunirse virtualmente con otros, ya sea por video o solo audio o ambos, todo mientras realiza chats en vivo, y le permite grabar esas sesiones para verlas más tarde.
