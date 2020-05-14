@@ -59,10 +59,52 @@ Para empresas Skype es posiblemente la mejor alternativa tanto gratuita como pag
 Si lo que buscas es una app para hacer videollamadas con tus amigos. Lo mejor es que pruebes con HouseParty, WhatsApp e Instagram. 
 Para aquellos que quieren una app para comunicarse con sus amigos mientras juegan, definitivamente Discord es lo que necesitan.
 
-
 ### 4. Webex by Juan Carlos Sellan
 
-<<<<<<< HEAD
+### ¿Qué es Cisco Webex Meetings?
+
+Cada mes, 113 millones de profesionales confían en WebEx para colaborar y hacer avanzar proyectos más rápido. Ahora los equipos pueden trabajar con cualquier persona desde un navegador, un dispositivo móvil o un sistema de video. WebEx Meeting Center ofrece capacidad integrada para compartir audio, video y contenido. Mantén la privacidad de las conversaciones con reuniones de WebEx altamente seguras de Cisco Collaboration Cloud.
+
+### Entre las ventajas de utilizar audio de Webex se incluyen:
+
+* Devolución de llamada: permitir que el sistema audio de WebEx llame a los asistentes y traiga
+en su audioconferencia-sin complicaciones con códigos de reunión o de asistente.
+
+* Integración en Outlook utilice su Outlook u otra aplicación de planificación popular para
+configurar reuniones web y de sólo audio.
+
+* Invitar por teléfono a los asistentes o a los expertos en la materia directamente en su reunión cuando usted necesitan.
+
+* El bloqueo de la reunión impide el acceso no autorizado a las conferencias de audio y a las reuniones Web.
+
+* Planificación unificada Ahorre tiempo y dinero cuando configure tanto web como audio para sus reuniones en la mismo tiempo.
+
+* La facturación integrada elimina los inconvenientes y los inconvenientes de conciliar varias facturas.
+
+* Acceso global realiza conferencias de audio con cualquier persona, en cualquier lugar del mundo.
+
+* 500-capacidad de persona que llama realiza reuniones de colaboración pequeñas y grandes. Utilice también servicios de transmisión de audio con Event Center para eventos de gran tamaño: hasta 3.000 participantes.
+
+* El soporte técnico y el servicio de atención al cliente de WebEx disfrutan del acceso de un solo punto a las reuniones web y de audio. Elimine la necesidad de administrar varios proveedores.
+
+* Las distintas opciones de audio cumplen con las necesidades de audio si seleccionan entre: pago, teléfono gratuito, devolución de llamada, transmisión de audio o voz sobre IP integrada.
+
+* La autenticación de invitados elimina los tediosos procedimientos de inicio de sesión con la autenticación automática de la reunión asistentes cuando llamen.
+
+### Limitaciones y problemas conocidos de la aplicación web de Cisco Webex
+* El Aplicación Cisco Webex Meetings Web admite Cisco Webex Meetings, Cisco Webex Events y Cisco Webex Training. La aplicación web no es compatible con Cisco Webex Support.
+
+* La función levantar mano no está disponible para la Aplicación Cisco Webex Meetings Web para Cisco Webex Meetings, Cisco Webex Events y Cisco Webex Training.
+
+* La aplicación web de Cisco Webex no está disponible en las reuniones que tienen habilitado el cifrado de extremo a extremo (E2E).
+
+* En este momento, el uso compartido de contenidos solo es compatible con Chrome y Firefox. Nota: Para habilitar uso compartido de contenido en Chrome versión 71 o versiones anteriores, debe instalar la extensión de uso compartido de contenido Cisco Webex y Cisco Webex Teams. Esto no es necesario en Chrome versión 72 o versiones posteriores.
+
+* El uso compartido es solo compatible con reuniones habilitadas para vídeo de Webex o grabaciones en MP4 habilitadas.
+
+* En ocasiones, es posible que la edición de un documento no sea visible durante uso compartido de aplicaciones. Para que otros puedan ver sus actualizaciones, tal vez sea necesario detener la aplicación y volver a compartirla. Como alternativa, puede evitar este problema mediante el uso de la opción Compartir pantalla, donde los usuarios pueden ver las ediciones en tiempo real.
+
+
 ### FaceTime by Jesus Jacome
 El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece absolutamente todas las herramientas 
 =======
