@@ -124,10 +124,6 @@ configurar reuniones web y de sólo audio.
 
 * En ocasiones, es posible que la edición de un documento no sea visible durante uso compartido de aplicaciones. Para que otros puedan ver sus actualizaciones, tal vez sea necesario detener la aplicación y volver a compartirla. Como alternativa, puede evitar este problema mediante el uso de la opción Compartir pantalla, donde los usuarios pueden ver las ediciones en tiempo real.
 
-
-### FaceTime by Jesus Jacome
-El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece absolutamente todas las herramientas 
-=======
 ## 5. FaceTime by Jesus Jacome
 
 -El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece absolutamente todas las herramientas 
